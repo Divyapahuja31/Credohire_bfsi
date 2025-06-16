@@ -1,12 +1,30 @@
-# React + Vite
+# CredoHire BFSI Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive web page designed for **CredoHire.ai**, showcasing AI-powered recruitment solutions for the **BFSI** (Banking, Financial Services, and Insurance) sector.
 
-Currently, two official plugins are available:
+🔗 You can check out the live page on: [credohire.ai](https://credohire.ai)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tech Stack
+- React (Vite)
+- Tailwind CSS
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/Divyapahuja31/Credohire_bfsi.git
+cd Credohire_bfsi
+npm install
+npm run dev
+```
+✨ Highlights
+Futuristic UI with BFSI-specific roles
+
+Fully responsive and component-based
+
+Designed in blue-purple gradient theme
+
+Made with 💻 by Divya Pahuja
+
+---
+
+Let me know if you want a version with a screenshot or hosted demo link for preview!
